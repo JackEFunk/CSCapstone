@@ -3,7 +3,7 @@
 # platform: win-64
 debugpy==1.5.1
 ipykernel==6.15.2
-ipython==8.7.0
+# ipython==8.7.0
 ipython_genutils==0.2.0
 ipywidgets==7.6.5
 json5==0.9.6
